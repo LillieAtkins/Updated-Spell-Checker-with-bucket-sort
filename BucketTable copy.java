@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-//I have neither given nor received any unauthorized aid on this assignment
-
 public class BucketTable {
 	
 	private ArrayList<Word>[] lists;
