@@ -1,5 +1,3 @@
-//I have neither given nor recieved any unauthorized aid on this assignment.
-
 import java.io.*;
 import java.util.Scanner;
 
